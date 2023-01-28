@@ -932,3 +932,765 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674908111390	Marionette	INFO	Stopped listening on port 53673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674908182137	geckodriver	INFO	Listening on 127.0.0.1:54196
+1674908182645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54197" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileo48Py3"
+1674908183545	Marionette	INFO	Marionette enabled
+1674908183597	Marionette	INFO	Listening on port 54205
+Read port: 54205
+WebDriver BiDi listening on ws://127.0.0.1:54197
+1674908184078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileo48Py3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54197/devtools/browser/55ad4dda-1e4b-4c75-94c8-36376118a2a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674908205636	geckodriver	INFO	Listening on 127.0.0.1:54251
+1674908206146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54252" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5Ow6xg"
+1674908206850	Marionette	INFO	Marionette enabled
+1674908206893	Marionette	INFO	Listening on port 54265
+Read port: 54265
+WebDriver BiDi listening on ws://127.0.0.1:54252
+1674908207359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5Ow6xg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54252/devtools/browser/7889f5e0-bd36-4e44-9635-a5fdbfb9f0cf
+1674908451368	geckodriver	INFO	Listening on 127.0.0.1:54356
+1674908451884	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54357" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileudlP4W"
+1674908452605	Marionette	INFO	Marionette enabled
+1674908452652	Marionette	INFO	Listening on port 54365
+Read port: 54365
+WebDriver BiDi listening on ws://127.0.0.1:54357
+1674908453115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileudlP4W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54357/devtools/browser/7a8fd39e-805e-4452-bab4-6c49a5eca0ca
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674908466405	geckodriver	INFO	Listening on 127.0.0.1:54410
+1674908466917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54411" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilee5mZ4f"
+1674908467655	Marionette	INFO	Marionette enabled
+1674908467702	Marionette	INFO	Listening on port 54423
+Read port: 54423
+WebDriver BiDi listening on ws://127.0.0.1:54411
+1674908468182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilee5mZ4f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54411/devtools/browser/43b17704-6713-415a-8ee9-30a9cceefff6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+1674908566391	geckodriver	INFO	Listening on 127.0.0.1:54477
+1674908566907	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54478" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile6vIu7v"
+1674908567625	Marionette	INFO	Marionette enabled
+1674908567667	Marionette	INFO	Listening on port 54486
+Read port: 54486
+WebDriver BiDi listening on ws://127.0.0.1:54478
+1674908568134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile6vIu7v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54478/devtools/browser/3df7368c-e58c-4ee2-ac2c-c5f3d067b3d4
+1674908580797	geckodriver	INFO	Listening on 127.0.0.1:54529
+1674908581305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54530" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile7aeD4L"
+1674908581979	Marionette	INFO	Marionette enabled
+1674908582020	Marionette	INFO	Listening on port 54540
+Read port: 54540
+WebDriver BiDi listening on ws://127.0.0.1:54530
+1674908582511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile7aeD4L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54530/devtools/browser/fcadd3d4-e5fc-4c84-97f6-fc840119669a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+1674908717594	geckodriver	INFO	Listening on 127.0.0.1:54619
+1674908718109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54620" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileJcFtPZ"
+1674908718828	Marionette	INFO	Marionette enabled
+1674908718870	Marionette	INFO	Listening on port 54628
+Read port: 54628
+WebDriver BiDi listening on ws://127.0.0.1:54620
+1674908719337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileJcFtPZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54620/devtools/browser/6c3470cd-8ea5-4336-904c-1ad265362179
+1674908730549	geckodriver	INFO	Listening on 127.0.0.1:54663
+1674908731059	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54664" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilebekPZJ"
+1674908731633	Marionette	INFO	Marionette enabled
+1674908731677	Marionette	INFO	Listening on port 54674
+Read port: 54674
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+WebDriver BiDi listening on ws://127.0.0.1:54664
+1674908732239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilebekPZJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54664/devtools/browser/9ccf93ef-2f39-48d4-85b9-2984a3c7f87c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674908771146	geckodriver	INFO	Listening on 127.0.0.1:54730
+1674908771666	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54731" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileLXBHMp"
+1674908772373	Marionette	INFO	Marionette enabled
+1674908772418	Marionette	INFO	Listening on port 54739
+Read port: 54739
+WebDriver BiDi listening on ws://127.0.0.1:54731
+1674908772895	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileLXBHMp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54731/devtools/browser/42ae19e0-13a3-4a58-bfc7-8c03a31aab3f
+1674908782803	geckodriver	INFO	Listening on 127.0.0.1:54774
+1674908783313	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54775" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileBCn1Wx"
+1674908784022	Marionette	INFO	Marionette enabled
+1674908784063	Marionette	INFO	Listening on port 54786
+Read port: 54786
+WebDriver BiDi listening on ws://127.0.0.1:54775
+1674908784529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileBCn1Wx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54775/devtools/browser/f12bd239-eef9-4635-bc69-7ccd6fd5a1a7
+1674908871097	geckodriver	INFO	Listening on 127.0.0.1:54933
+1674908871613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54934" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileuM16wS"
+1674908872337	Marionette	INFO	Marionette enabled
+1674908872382	Marionette	INFO	Listening on port 54942
+Read port: 54942
+WebDriver BiDi listening on ws://127.0.0.1:54934
+1674908872845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileuM16wS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54934/devtools/browser/8c8a74b2-4b58-4eb8-974f-7c584f752b39
+1674908885148	geckodriver	INFO	Listening on 127.0.0.1:54977
+1674908885662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54978" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDvTiSe"
+1674908886376	Marionette	INFO	Marionette enabled
+1674908886426	Marionette	INFO	Listening on port 54988
+Read port: 54988
+WebDriver BiDi listening on ws://127.0.0.1:54978
+1674908886897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDvTiSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54978/devtools/browser/26582755-dfbd-46e2-b588-1d5386ab2533
+1674908904412	geckodriver	INFO	Listening on 127.0.0.1:55022
+1674908904931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55023" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileK0GFof"
+1674908905655	Marionette	INFO	Marionette enabled
+1674908905699	Marionette	INFO	Listening on port 55030
+Read port: 55030
+WebDriver BiDi listening on ws://127.0.0.1:55023
+1674908906166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileK0GFof/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55023/devtools/browser/11ec6df5-bc87-482e-bd99-774dcc59101e
+1674908920945	geckodriver	INFO	Listening on 127.0.0.1:55068
+1674908921456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55069" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileoHkLsI"
+1674908922167	Marionette	INFO	Marionette enabled
+1674908922213	Marionette	INFO	Listening on port 55079
+Read port: 55079
+WebDriver BiDi listening on ws://127.0.0.1:55069
+1674908922670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileoHkLsI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55069/devtools/browser/6980886c-1dec-47b3-b0f1-4e1d7389df3a
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+JavaScript error: resource://devtools/client/shared/undo.js, line 144: TypeError: controllerWindow is null
+1674909016560	geckodriver	INFO	Listening on 127.0.0.1:55124
+1674909017074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55125" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileG4CaYB"
+1674909017795	Marionette	INFO	Marionette enabled
+1674909017839	Marionette	INFO	Listening on port 55133
+Read port: 55133
+WebDriver BiDi listening on ws://127.0.0.1:55125
+1674909018303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileG4CaYB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55125/devtools/browser/d148fac5-b833-4d3c-9b75-afa874f7bd1e
+1674909030514	geckodriver	INFO	Listening on 127.0.0.1:55168
+1674909031026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55169" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileIjHzDg"
+1674909031749	Marionette	INFO	Marionette enabled
+1674909031793	Marionette	INFO	Listening on port 55179
+Read port: 55179
+WebDriver BiDi listening on ws://127.0.0.1:55169
+1674909032253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileIjHzDg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55169/devtools/browser/d7b7575d-be2b-45b2-9822-9e386f27332c
+1674909075430	geckodriver	INFO	Listening on 127.0.0.1:55220
+1674909075945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55221" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileRrjMVe"
+1674909076659	Marionette	INFO	Marionette enabled
+1674909076703	Marionette	INFO	Listening on port 55229
+Read port: 55229
+WebDriver BiDi listening on ws://127.0.0.1:55221
+1674909077170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileRrjMVe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55221/devtools/browser/da45f6b6-1dc7-44b1-a38d-95d4cf5aa58b
+1674909093626	geckodriver	INFO	Listening on 127.0.0.1:55262
+1674909094146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55263" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile27Qj22"
+1674909094873	Marionette	INFO	Marionette enabled
+1674909094915	Marionette	INFO	Listening on port 55271
+Read port: 55271
+WebDriver BiDi listening on ws://127.0.0.1:55263
+1674909095383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile27Qj22/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55263/devtools/browser/3867f30c-2435-49fe-8a15-03e4950eab86
+1674909105102	geckodriver	INFO	Listening on 127.0.0.1:55308
+1674909105609	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55309" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilemlNpew"
+1674909106315	Marionette	INFO	Marionette enabled
+1674909106360	Marionette	INFO	Listening on port 55319
+Read port: 55319
+WebDriver BiDi listening on ws://127.0.0.1:55309
+1674909106820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilemlNpew/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55309/devtools/browser/e1f2deb1-709c-47ee-b7c7-c4eebeef19f0
+1674909336780	geckodriver	INFO	Listening on 127.0.0.1:55361
+1674909337297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55362" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilei756i2"
+1674909338010	Marionette	INFO	Marionette enabled
+1674909338055	Marionette	INFO	Listening on port 55370
+Read port: 55370
+WebDriver BiDi listening on ws://127.0.0.1:55362
+1674909338524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilei756i2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55362/devtools/browser/7542c314-2ccd-4a2e-b965-74f43cbc0ca4
+1674909348354	geckodriver	INFO	Listening on 127.0.0.1:55405
+1674909348861	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55406" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilevWQX3V"
+1674909349539	Marionette	INFO	Marionette enabled
+1674909349584	Marionette	INFO	Listening on port 55418
+Read port: 55418
+WebDriver BiDi listening on ws://127.0.0.1:55406
+1674909350044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilevWQX3V/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55406/devtools/browser/0790419e-de95-4d58-b35f-c8f18e513dcf
+1674909507289	geckodriver	INFO	Listening on 127.0.0.1:55626
+1674909507804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55627" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileuOzryv"
+1674909508548	Marionette	INFO	Marionette enabled
+1674909508595	Marionette	INFO	Listening on port 55643
+Read port: 55643
+WebDriver BiDi listening on ws://127.0.0.1:55627
+1674909509070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileuOzryv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55627/devtools/browser/62060476-8c36-4be8-9bc6-1a21f99382a0
+1674909518640	geckodriver	INFO	Listening on 127.0.0.1:55718
+1674909519154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55719" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileVdD7Ts"
+1674909519861	Marionette	INFO	Marionette enabled
+1674909519906	Marionette	INFO	Listening on port 55733
+Read port: 55733
+WebDriver BiDi listening on ws://127.0.0.1:55719
+1674909520362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileVdD7Ts/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55719/devtools/browser/e9fcd715-5517-4a92-9d09-45a8b7cf37bd
+1674909684682	geckodriver	INFO	Listening on 127.0.0.1:56450
+1674909685199	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56451" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileeNswFE"
+1674909685908	Marionette	INFO	Marionette enabled
+1674909685957	Marionette	INFO	Listening on port 56467
+Read port: 56467
+WebDriver BiDi listening on ws://127.0.0.1:56451
+1674909686428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileeNswFE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56451/devtools/browser/fc91f52d-4c7a-49cb-af7c-126bcd32ac8e
+1674909701145	geckodriver	INFO	Listening on 127.0.0.1:56562
+1674909701655	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56563" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile9fESVi"
+1674909702387	Marionette	INFO	Marionette enabled
+1674909702437	Marionette	INFO	Listening on port 56577
+Read port: 56577
+WebDriver BiDi listening on ws://127.0.0.1:56563
+1674909702904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile9fESVi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56563/devtools/browser/b6d68d38-1635-4a68-97a4-f66512084b56
+1674909779533	geckodriver	INFO	Listening on 127.0.0.1:56919
+1674909780047	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56920" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile71bYud"
+1674909780760	Marionette	INFO	Marionette enabled
+1674909780804	Marionette	INFO	Listening on port 56932
+Read port: 56932
+WebDriver BiDi listening on ws://127.0.0.1:56920
+1674909781267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile71bYud/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56920/devtools/browser/528f0056-5a1f-4f0e-806c-58a649d884d9
+1674909790745	geckodriver	INFO	Listening on 127.0.0.1:57007
+1674909791252	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57008" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileMsuoW1"
+1674909791964	Marionette	INFO	Marionette enabled
+1674909792006	Marionette	INFO	Listening on port 57022
+Read port: 57022
+WebDriver BiDi listening on ws://127.0.0.1:57008
+1674909792469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileMsuoW1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57008/devtools/browser/786c3f66-90e5-4e8b-9d05-b65ff67c3bd7
+1674909937141	geckodriver	INFO	Listening on 127.0.0.1:57643
+1674909937658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57644" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile8diy2a"
+1674909938394	Marionette	INFO	Marionette enabled
+1674909938444	Marionette	INFO	Listening on port 57656
+Read port: 57656
+WebDriver BiDi listening on ws://127.0.0.1:57644
+1674909938906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile8diy2a/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57644/devtools/browser/6d877812-c924-449b-95eb-2f509f821557
+1674909949459	geckodriver	INFO	Listening on 127.0.0.1:57737
+1674909949969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57738" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileH3UxXh"
+1674909950681	Marionette	INFO	Marionette enabled
+1674909950723	Marionette	INFO	Listening on port 57756
+Read port: 57756
+WebDriver BiDi listening on ws://127.0.0.1:57738
+1674909951187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileH3UxXh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57738/devtools/browser/5c4b8e4f-9dd7-452a-a278-30377cf5c8fe
+1674909973752	geckodriver	INFO	Listening on 127.0.0.1:57882
+1674909974266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57883" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilehfeFFg"
+1674909974967	Marionette	INFO	Marionette enabled
+1674909975013	Marionette	INFO	Listening on port 57900
+Read port: 57900
+WebDriver BiDi listening on ws://127.0.0.1:57883
+1674909975483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilehfeFFg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57883/devtools/browser/29371bf4-f653-4e7a-89f5-0c8d6c336aa9
+1674909986643	geckodriver	INFO	Listening on 127.0.0.1:57980
+1674909987151	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57981" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileKezbZn"
+1674909987869	Marionette	INFO	Marionette enabled
+1674909987915	Marionette	INFO	Listening on port 57999
+Read port: 57999
+WebDriver BiDi listening on ws://127.0.0.1:57981
+1674909988380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileKezbZn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57981/devtools/browser/137d43f8-318c-4cd4-b4b9-a1e681afe1aa
+1674910266249	geckodriver	INFO	Listening on 127.0.0.1:59171
+1674910266763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59172" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDndz3P"
+1674910267498	Marionette	INFO	Marionette enabled
+1674910267544	Marionette	INFO	Listening on port 59188
+Read port: 59188
+WebDriver BiDi listening on ws://127.0.0.1:59172
+1674910268009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDndz3P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59172/devtools/browser/7db64281-c239-480b-95ce-72a32c47c0c4
+1674910300235	geckodriver	INFO	Listening on 127.0.0.1:59350
+1674910300752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59351" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileHMjhio"
+1674910301491	Marionette	INFO	Marionette enabled
+1674910301537	Marionette	INFO	Listening on port 59367
+Read port: 59367
+WebDriver BiDi listening on ws://127.0.0.1:59351
+1674910302001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileHMjhio/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59351/devtools/browser/7c3e937f-7869-4b8b-9f5d-ccfeaec48f91
+1674910477937	geckodriver	INFO	Listening on 127.0.0.1:60126
+1674910478455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60127" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile3bPdMv"
+1674910479169	Marionette	INFO	Marionette enabled
+1674910479217	Marionette	INFO	Listening on port 60141
+Read port: 60141
+WebDriver BiDi listening on ws://127.0.0.1:60127
+1674910479685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile3bPdMv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60127/devtools/browser/e1dd646b-e49f-42d4-b0aa-cbdb559ca57c
+1674910503328	geckodriver	INFO	Listening on 127.0.0.1:60271
+1674910503843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60272" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilesxRakn"
+1674910504591	Marionette	INFO	Marionette enabled
+1674910504639	Marionette	INFO	Listening on port 60284
+Read port: 60284
+WebDriver BiDi listening on ws://127.0.0.1:60272
+1674910505107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilesxRakn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60272/devtools/browser/0bccb254-87b9-450d-b153-bce2d6750b08
+1674910663658	geckodriver	INFO	Listening on 127.0.0.1:49226
+1674910664142	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49227" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefhqkvQ"
+1674910665006	Marionette	INFO	Marionette enabled
+1674910665069	Marionette	INFO	Listening on port 49237
+Read port: 49237
+WebDriver BiDi listening on ws://127.0.0.1:49227
+1674910665385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefhqkvQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49227/devtools/browser/7cf8d400-ad8d-4271-ba52-6bb255c01338
+1674910730881	geckodriver	INFO	Listening on 127.0.0.1:49328
+1674910731344	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49329" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileE4d1e2"
+1674910732269	Marionette	INFO	Marionette enabled
+1674910732350	Marionette	INFO	Listening on port 49336
+Read port: 49336
+WebDriver BiDi listening on ws://127.0.0.1:49329
+1674910732635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileE4d1e2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49329/devtools/browser/94b816b4-7d86-4ab2-87af-3dae4c249da9
+1674910774396	geckodriver	INFO	Listening on 127.0.0.1:49389
+1674910774917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49390" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileoV5sRO"
+1674910775611	Marionette	INFO	Marionette enabled
+1674910775653	Marionette	INFO	Listening on port 49399
+Read port: 49399
+WebDriver BiDi listening on ws://127.0.0.1:49390
+1674910776113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileoV5sRO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49390/devtools/browser/e6d73d81-77d1-43e9-b76b-0241705000ff
+1674910905396	geckodriver	INFO	Listening on 127.0.0.1:49615
+1674910905912	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49616" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile0PFBWJ"
+1674910906628	Marionette	INFO	Marionette enabled
+1674910906674	Marionette	INFO	Listening on port 49627
+Read port: 49627
+WebDriver BiDi listening on ws://127.0.0.1:49616
+1674910907137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile0PFBWJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49616/devtools/browser/da409f77-dfeb-4882-a5b3-c7ab3c6cda14
+1674910952179	geckodriver	INFO	Listening on 127.0.0.1:49851
+1674910952698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49852" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefy0qad"
+1674910953415	Marionette	INFO	Marionette enabled
+1674910953456	Marionette	INFO	Listening on port 49867
+Read port: 49867
+WebDriver BiDi listening on ws://127.0.0.1:49852
+1674910953934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefy0qad/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49852/devtools/browser/09bd566d-4838-4536-839b-abb77e0e2b5f
+1674910966273	geckodriver	INFO	Listening on 127.0.0.1:49957
+1674910966792	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49958" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileec4956"
+1674910967513	Marionette	INFO	Marionette enabled
+1674910967557	Marionette	INFO	Listening on port 49973
+Read port: 49973
+WebDriver BiDi listening on ws://127.0.0.1:49958
+1674910968020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileec4956/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49958/devtools/browser/7c510c3c-b6b0-4cf2-a83f-6f1e7d0b51ca
+1674911162251	geckodriver	INFO	Listening on 127.0.0.1:50674
+1674911162769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50675" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileXU98VI"
+1674911163484	Marionette	INFO	Marionette enabled
+1674911163526	Marionette	INFO	Listening on port 50686
+Read port: 50686
+WebDriver BiDi listening on ws://127.0.0.1:50675
+1674911163992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileXU98VI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50675/devtools/browser/680f69e0-2b1e-4c7a-b556-f0957944ecbc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674911170869	geckodriver	INFO	Listening on 127.0.0.1:50756
+1674911171378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50757" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilegnK8XL"
+1674911172093	Marionette	INFO	Marionette enabled
+1674911172135	Marionette	INFO	Listening on port 50770
+Read port: 50770
+WebDriver BiDi listening on ws://127.0.0.1:50757
+1674911172600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilegnK8XL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50757/devtools/browser/0100443e-a36f-4f92-824c-555ced517f0c
+1674911179902	geckodriver	INFO	Listening on 127.0.0.1:50831
+1674911180421	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50832" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilerJN3SD"
+1674911181127	Marionette	INFO	Marionette enabled
+1674911181173	Marionette	INFO	Listening on port 50847
+Read port: 50847
+WebDriver BiDi listening on ws://127.0.0.1:50832
+1674911181640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilerJN3SD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50832/devtools/browser/c80f9fc6-3168-4859-89e9-61a0a16b18ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674911197179	geckodriver	INFO	Listening on 127.0.0.1:50957
+1674911197689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50958" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDV5Xp7"
+1674911198387	Marionette	INFO	Marionette enabled
+1674911198430	Marionette	INFO	Listening on port 50967
+Read port: 50967
+WebDriver BiDi listening on ws://127.0.0.1:50958
+1674911198890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileDV5Xp7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50958/devtools/browser/45c57307-34a5-445d-aab8-ad68a74f8090
+1674912115062	geckodriver	INFO	Listening on 127.0.0.1:54687
+1674912115576	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54688" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilef4yuYa"
+1674912116159	Marionette	INFO	Marionette enabled
+1674912116200	Marionette	INFO	Listening on port 54700
+Read port: 54700
+WebDriver BiDi listening on ws://127.0.0.1:54688
+1674912116617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilef4yuYa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54688/devtools/browser/54a590b4-e13a-4873-80ff-fc5843225613
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912121973	geckodriver	INFO	Listening on 127.0.0.1:54764
+1674912122486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54765" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileKhj6H7"
+1674912123223	Marionette	INFO	Marionette enabled
+1674912123271	Marionette	INFO	Listening on port 54774
+Read port: 54774
+WebDriver BiDi listening on ws://127.0.0.1:54765
+1674912123738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileKhj6H7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54765/devtools/browser/7aef023e-c733-4891-8aab-cc7616d762b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912259323	geckodriver	INFO	Listening on 127.0.0.1:55384
+1674912259838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55385" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileRuqeh5"
+1674912260528	Marionette	INFO	Marionette enabled
+1674912260569	Marionette	INFO	Listening on port 55396
+Read port: 55396
+WebDriver BiDi listening on ws://127.0.0.1:55385
+1674912261038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofileRuqeh5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55385/devtools/browser/df4747e4-62ac-47f4-a86a-80cfdae79cf8
+1674912275421	geckodriver	INFO	Listening on 127.0.0.1:55494
+1674912275938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55495" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5Wb9qq"
+1674912276653	Marionette	INFO	Marionette enabled
+1674912276696	Marionette	INFO	Listening on port 55505
+Read port: 55505
+WebDriver BiDi listening on ws://127.0.0.1:55495
+1674912277162	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5Wb9qq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55495/devtools/browser/35a8f719-dff4-475a-934a-898e23eb893f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912288584	geckodriver	INFO	Listening on 127.0.0.1:55599
+1674912289096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55600" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5K9883"
+1674912289805	Marionette	INFO	Marionette enabled
+1674912289849	Marionette	INFO	Listening on port 55612
+Read port: 55612
+WebDriver BiDi listening on ws://127.0.0.1:55600
+1674912290311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofile5K9883/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55600/devtools/browser/5b15719a-2703-4410-a924-d2574783bb33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912315345	Marionette	INFO	Stopped listening on port 55612
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674912735306	geckodriver	INFO	Listening on 127.0.0.1:57466
+1674912735823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57467" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefDimJU"
+1674912736555	Marionette	INFO	Marionette enabled
+1674912736599	Marionette	INFO	Listening on port 57482
+Read port: 57482
+WebDriver BiDi listening on ws://127.0.0.1:57467
+1674912737068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilefDimJU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57467/devtools/browser/05c3b8f5-384f-4443-ac5c-5eefdccf301d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912748660	geckodriver	INFO	Listening on 127.0.0.1:57572
+1674912749167	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57573" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilePWWsxv"
+1674912749891	Marionette	INFO	Marionette enabled
+1674912749933	Marionette	INFO	Listening on port 57589
+Read port: 57589
+WebDriver BiDi listening on ws://127.0.0.1:57573
+1674912750401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/n1/0j32_zl516lblrg5zg_2tfyw0000gn/T/rust_mozprofilePWWsxv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57573/devtools/browser/cd61be8e-9826-4aef-ba90-5e459afae0fa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://moodle-sciences-22.sorbonne-universite.fr."
+JavaScript error: https://moodle-sciences-22.sorbonne-universite.fr/lib/javascript.php/1674559241/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://auth.sorbonne-universite.fr."
+1674912769173	Marionette	INFO	Stopped listening on port 57589
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"

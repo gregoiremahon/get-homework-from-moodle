@@ -8,7 +8,8 @@ from pwinput import pwinput
 class main:
     def __init__(self):
         self.browser = Firefox()
-        self.username, self.password = main.get_id()
+        self.username = None
+        self.username, self.password = main.get_id(self)
         self.Courses = {"Electromagnétisme " : "https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589",
                "lignes de transmission" :"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1595",
                "Architecture des systèmes":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1583",
@@ -27,28 +28,30 @@ class main:
                "Système asservis":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1565",
                "VHDL":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1535"}
 
-    def get_id():
-        username = input("Username: ")
-        password = pwinput("Password: ")
+    def get_id(self):
+        if self.username == None:
+            username = input("Username: ")
+            password = pwinput("Password: ")
         return username, password
 
     def Login(self, course):
             self.browser.get(course)
             try:
+                Sorbonne_button = self.browser.find_element("xpath", '//*[@id="choice"]/div[1]/div[2]/a') # click on Sorbonne button
+                Sorbonne_button.click()
                 username_field = self.browser.find_element("id", "username")
                 password_field = self.browser.find_element("id", "password")
                 login_button = self.browser.find_element("name", "submit")
                 username_field.send_keys(self.username)
                 password_field.send_keys(self.password)
-                login_button.click()
+                login_button.click() # click on login button
             except:
-                return 0
+                pass
 
     def CheckCourses(self):
         homework = {}
         for course in self.Courses:
             self.Login(self.Courses[course])
-            #sleep(0.1)
             CourseSoup = BeautifulSoup(self.browser.page_source, 'html.parser')
             if "Devoir" in CourseSoup.get_text():
                 print("Il y a un devoir à rendre dans le cours " + course)
@@ -56,9 +59,9 @@ class main:
         return homework
     
     def GetHomework(self):
-        print(self.CheckCourses())
+        self.CheckCourses()
         self.browser.close()
     
 if __name__ == "__main__":
-    main().Login("https://auth.sorbonne-universite.fr/cas/login?service=https%3A%2F%2Fmoodle-sciences-22.sorbonne-universite.fr%2Flogin%2Findex.php%3FauthCAS%3DCAS")
+    main().Login("https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589")
     main().GetHomework()
