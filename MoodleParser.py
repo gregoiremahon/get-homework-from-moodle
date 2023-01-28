@@ -2,14 +2,13 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 from selenium.webdriver import Firefox
 from time import sleep
-from getpass import getpass
 from pwinput import pwinput
 
 class main:
     def __init__(self):
         self.browser = Firefox()
         self.username = None
-        self.username, self.password = main.get_id(self)
+        self.password = None
         self.Courses = {"Electromagnétisme " : "https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589",
                "lignes de transmission" :"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1595",
                "Architecture des systèmes":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1583",
@@ -29,10 +28,9 @@ class main:
                "VHDL":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1535"}
 
     def get_id(self):
-        if self.username == None:
-            username = input("Username: ")
-            password = pwinput("Password: ")
-        return username, password
+        if self.username == None or self.password == None:
+            self.username = input("Username: ")
+            self.password = pwinput("Password: ")
 
     def Login(self, course):
             self.browser.get(course)
@@ -59,9 +57,10 @@ class main:
         return homework
     
     def GetHomework(self):
+        self.get_id()
         self.CheckCourses()
         self.browser.close()
-    
+        
 if __name__ == "__main__":
     main().Login("https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589")
     main().GetHomework()
