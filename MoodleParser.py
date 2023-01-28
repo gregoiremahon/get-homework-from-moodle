@@ -3,12 +3,14 @@ from bs4 import BeautifulSoup
 from selenium.webdriver import Firefox
 from time import sleep
 from pwinput import pwinput
-
+from lxml import html
+import requests
 class main:
     def __init__(self):
         self.browser = Firefox()
         self.username = None
         self.password = None
+        self.response = None
         self.Courses = {"Electromagnétisme " : "https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589",
                "lignes de transmission" :"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1595",
                "Architecture des systèmes":"https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1583",
@@ -33,7 +35,7 @@ class main:
             self.password = pwinput("Password: ")
 
     def Login(self, course):
-            self.browser.get(course)
+            self.response = self.browser.get(course)
             try:
                 Sorbonne_button = self.browser.find_element("xpath", '//*[@id="choice"]/div[1]/div[2]/a') # click on Sorbonne button
                 Sorbonne_button.click()
@@ -52,6 +54,7 @@ class main:
             self.Login(self.Courses[course])
             CourseSoup = BeautifulSoup(self.browser.page_source, 'html.parser')
             if "Devoir" in CourseSoup.get_text():
+                self.get_Homework_Button()
                 print("Il y a un devoir à rendre dans le cours " + course)
                 homework[course] = self.Courses[course]
         return homework
@@ -60,7 +63,16 @@ class main:
         self.get_id()
         self.CheckCourses()
         self.browser.close()
-        
+    
+    def get_Homework_Button(self):
+
+            elements = self.browser.find_element("xpath", "//ul[@class='section img-text']")
+            print(elements)
+            child = elements.find_element("xpath", "./child::*")
+            for c in child:
+                print("Xpath : ", c.get_attribute('xpath'))
+
+
 if __name__ == "__main__":
     main().Login("https://moodle-sciences-22.sorbonne-universite.fr/course/view.php?id=1589")
     main().GetHomework()
